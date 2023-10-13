@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pandas
-torch
-google-cloud-storage
-google-cloud-aiplatform[prediction]
